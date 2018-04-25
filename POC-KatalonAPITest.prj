@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>POC-KatalonAPITest</name>
+   <tag></tag>
+   <UUID>c1de06b8-1644-4876-afc4-8aa1138bff70</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
